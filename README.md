@@ -1,29 +1,43 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por programação e sempre buscando aprender novas tecnologias.
+Sou **Makalistermz**, um desenvolvedor apaixonado por tecnologia e inovação.
 
-## 🚀 Sobre Mim
+---
 
-- 💻 Desenvolvedor **Front-End** e **Back-End**
-- 📚 Sempre aprendendo novas tecnologias
-- 🎯 Focado em criar soluções de qualidade
-- 🌱 Entusiasta de desenvolvimento web
+## 🚀 Sobre mim
 
-## 🛠️ Tecnologias e Ferramentas
+Desenvolvo soluções usando **HTML, CSS, JavaScript, PHP e React**. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-</p>
+---
+
+## 🛠️ Tecnologias
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+</div>
+
+---
 
 ## 📊 Minhas Estatísticas
 
-<a href="http://www.github.com/Makalistermz"><img src="https://github-readme-stats.vercel.app/api?username=Makalistermz&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1e1e1e&hide_border=true&show_user=true" alt="Makalistermz's GitHub stats" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makalistermz&show_icons=true&theme=dark&hide_border=true)
 
-## 📫 Conecte-se Comigo
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Makalistermz&theme=dark&hide_border=true&layout=compact)
 
-<p align="left">
-<a href="https://www.github.com/Makalistermz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Makalistermz?logo=github&style=for-the-badge&color=0891b2&labelColor=1e1e1e" /></a>
-</p>
+---
+
+## 📫 Conecte-se comigo
+
+<div align="left">
+  <a href="https://github.com/Makalistermz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
