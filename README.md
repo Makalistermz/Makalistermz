@@ -17,8 +17,8 @@ Sou um desenvolvedor web dedicado a criar experiências incríveis na web. Com f
 ```
 Frontend:        Backend:       Markup & Style:
 ├─ JavaScript    ├─ PHP           ├─ HTML5
-├─ React         └─ MySQL         ├─ CSS3
-└─ Web APIs      ├─ JavaScript    └─ Canvas
+├─ React         ├─ JavaScript    ├─ CSS3
+└─ Web APIs      └─ MySQL         └─ Canvas
 
 Ferramentas:
 ├─ Git & GitHub
