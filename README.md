@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Makalistermz
 
 ```
-💻 Desenvolvedor Web | 🎨 Front-End Focus | 🚀 Apaixonado por Código
+💻 Desenvolvedor Web | 🎨 Front-End
 ```
 
 ---
@@ -15,28 +15,16 @@ Sou um desenvolvedor web dedicado a criar experiências incríveis na web. Com f
 ## 🛠️ Meu Stack Tecnológico
 
 ```
-Frontend:        Backend:         Markup & Style:
+Frontend:        Backend:       Markup & Style:
 ├─ JavaScript    ├─ PHP           ├─ HTML5
 ├─ React         └─ MySQL         ├─ CSS3
-└─ Web APIs                        └─ Canvas
+└─ Web APIs      ├─ JavaScript    └─ Canvas
 
 Ferramentas:
 ├─ Git & GitHub
 ├─ VS Code
 └─ Chrome DevTools
 ```
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makalistermz&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Makalistermz&theme=radical&hide_border=true&layout=compact)
-
-</div>
 
 ---
 
