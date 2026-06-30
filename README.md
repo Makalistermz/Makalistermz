@@ -1,18 +1,18 @@
-# 👋 Olá, eu sou Makalistermz
+# Olá, eu sou Makalistermz
 
 ```
-💻 Desenvolvedor Web | 🎨 Front-End
+Desenvolvedor Web | Front-End
 ```
 
 ---
 
-## 🎯 Sobre Mim
+## Sobre Mim
 
 Sou um desenvolvedor web dedicado a criar experiências incríveis na web. Com foco em **front-end**, trabalho com as tecnologias mais modernas para trazer ideias à vida. Sempre buscando aprender algo novo e melhorar minhas skills!
 
 ---
 
-## 🛠️ Meu Stack Tecnológico
+## Meu Stack Tecnológico
 
 ```
 Frontend:        Backend:       Markup & Style:
@@ -24,7 +24,7 @@ Frontend:        Backend:       Markup & Style:
 
 ---
 
-## 🌐 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="left">
 
@@ -34,17 +34,17 @@ Frontend:        Backend:       Markup & Style:
 
 ---
 
-## 💡 O Que Estou Fazendo Agora
+## O Que Estou Fazendo Agora
 
-- 🔨 Trabalhando em projetos **Full Stack**
-- 📚 Aprendendo novas tecnologias
-- 🎯 Melhorando minhas skills em **JavaScript** e **React**
+- Trabalhando em projetos **Full Stack**
+- Aprendendo novas tecnologias
+- Melhorando minhas skills em **JavaScript** e **React**
 
 ---
 
 <div align="center">
 
-⭐ Se gostou, deixe uma estrela nos meus repositórios!
+Se gostou, deixe uma estrela nos meus repositórios!
 
 </div>
 
