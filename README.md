@@ -12,18 +12,6 @@ Sou um desenvolvedor web dedicado a criar experiências incríveis na web. Com f
 
 ---
 
-## Meu Stack Tecnológico
-
-```
-Frontend:        Backend:       Markup & Style:
-├─ JavaScript    ├─ PHP           ├─ HTML5
-├─ React         ├─ JavaScript    ├─ CSS3
-└─ Web APIs      └─ MySQL         └─ SCSS
-
-```
-
----
-
 ## Conecte-se Comigo
 
 <div align="left">
@@ -41,6 +29,12 @@ Frontend:        Backend:       Markup & Style:
 - Melhorando minhas skills em **JavaScript** e **React**
 
 ---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql," />
+  </a>
+</p>
 
 <div align="center">
 
