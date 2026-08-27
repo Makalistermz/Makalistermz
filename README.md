@@ -32,7 +32,7 @@ Sou um desenvolvedor web dedicado a criar experiências incríveis na web. Com f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs,prisma,react,nodejs,php,mysql," />
   </a>
 </p>
 
